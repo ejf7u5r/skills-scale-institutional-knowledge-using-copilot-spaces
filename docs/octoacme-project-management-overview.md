@@ -16,9 +16,17 @@ Applies to all cross-functional projects that deliver product features, services
 ## Core Roles
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
+- Project Sponsor: provides strategic oversight, secures resources, resolves escalated decisions.
+- Business Analyst: gathers requirements, bridges business and technical teams.
 - Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
+- QA Lead: owns testing strategy, validates release readiness.
+- Release Manager: coordinates deployment activities and manages release communications.
+- Change Manager: manages people-side of change; drives adoption and stakeholder readiness.
+- UI/UX Designer: designs user experiences and ensures product usability.
+- Risk Manager: proactively identifies, tracks, and escalates project risks.
 - Stakeholders: provide inputs and approvals.
+
+> See `octoacme-roles-and-personas.md` for full descriptions, responsibilities, and interaction patterns for each role.
 
 ## Key Artifacts
 - Project Charter / One-pager
